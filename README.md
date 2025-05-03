@@ -72,8 +72,8 @@ int main() {
     closegraph();
     return 0;
 }
-Devoloped by:Pharsheen Rahuman M
-Register no:212224230193
+Devoloped by:Steve nittin sylus
+Register no:212224040331
 ~~~
 **Output :**
 ![gd3](https://github.com/user-attachments/assets/3311151c-3394-4d04-8db6-2b50528b8ddc)
